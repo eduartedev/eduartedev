@@ -1,5 +1,3 @@
-# JedrDev
-
 ## Desarrollador web — Servicios freelance
 
 **Eduardo Duarte** — Desarrollador freelance con **más de 5 años de experiencia** en el diseño, construcción y mantenimiento de aplicaciones web para empresas en México. Trabajo con **PHP**, **Laravel**, **JavaScript**, bases de datos relacionales y despliegue en la nube (**AWS** y **Azure**).
